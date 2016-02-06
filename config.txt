@@ -1,0 +1,11 @@
+[twtxt]
+nick = ruebot
+twtfile = /home/nruest/git/twtxt/twtxt.txt
+post_tweet_hook = "cd /home/nruest/git/twtxt; git commit -q -a --allow-empty-message -m ''; git push -q origin gh-pages;"
+use_pager = True
+check_following = True
+
+[following]
+twtxt = https://buckket.org/twtxt_news.txt
+edsu = http://edsu.github.io/twtxt/twtxt.txt
+
