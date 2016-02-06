@@ -2,3 +2,4 @@
 2016-02-06T19:38:14.368149+00:00	@edsu yeah, totally. that, combined with a git commit, makes things really interesting.
 2016-02-06T20:02:03.117889+00:00	@edsu now i do. thanks for the tip! :-)
 2016-02-06T20:10:36.931248+00:00	@edsu I just did this: cd /home/nruest/git/twtxt; git commit -m message twtxt.txt ; git push
+2016-02-06T20:14:22.512690+00:00	@edsu let's see...
